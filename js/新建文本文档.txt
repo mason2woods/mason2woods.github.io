@@ -1,0 +1,2 @@
+<a href="#" style=" color:Black; font-size: 9pt; font-family: ËÎÌו;? text-decoration :none;" onclick ="this.style.behavior='url(#default#homepage)';this.sethomepage('http://crypto.6v.cx/')">
+? <span style="color: #ffffff; background-color: darkred">
